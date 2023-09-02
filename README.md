@@ -1,6 +1,4 @@
-# Certainly! Below is a sample `README.md` for your house price prediction project.
 
----
 
 # House Price Prediction
 
@@ -109,6 +107,3 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-This `README.md` provides a comprehensive guide for anyone looking to use or contribute to your project.

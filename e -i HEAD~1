@@ -1,0 +1,17 @@
+[33mcommit d773b230d185d95936c3534df8f5b3a0f16b1965[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Moraar222 <moraar976@gmail.com>
+Date:   Wed Aug 14 02:40:40 2024 +0300
+
+    chore: Add image preprocessing and text extraction functionality
+
+[33mcommit 793ea4609b50dbeb72e139c32432213bb4a442d9[m
+Author: Ruth Moraa <86566492+moraar222@users.noreply.github.com>
+Date:   Tue Mar 15 21:55:42 2022 +0300
+
+    Create 0-putchar.c
+
+[33mcommit 99d98041d30c9809023a798937deecaa256dabd9[m
+Author: Ruth Moraa <86566492+moraar222@users.noreply.github.com>
+Date:   Mon Mar 14 20:36:44 2022 +0300
+
+    Initial commit

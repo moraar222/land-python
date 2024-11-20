@@ -1,0 +1,60 @@
+[33mcommit 0918b23544622d4ada8459e72e712b653b2594d1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Moraar222 <moraar976@gmail.com>
+Date:   Wed Aug 14 17:24:27 2024 +0300
+
+    chore: Update README.md with comprehensive project documentation
+
+[33mcommit 02e9cda2991df2dc6175773f799570432e4d1830[m
+Merge: 66310ed f440a72
+Author: Moraar222 <moraar976@gmail.com>
+Date:   Wed Aug 14 17:20:29 2024 +0300
+
+    Merge branch 'main' of https://github.com/moraar222/alx-low_level_programming
+
+[33mcommit 66310edee22742c7761beacdccc427b20536131a[m
+Author: Moraar222 <moraar976@gmail.com>
+Date:   Wed Feb 7 12:00:00 2024 +0300
+
+    chore: Refactor code for dataset loading, preprocessing, model training, and evaluation
+
+[33mcommit 14dfdedf2ccb3fe5cd2d64304b5db7928ec3368d[m
+Author: Moraar222 <moraar976@gmail.com>
+Date:   Thu Feb 15 09:00:00 2024 +0300
+
+    chore: Add dataset loading, preprocessing, model training, and evaluation functions
+
+[33mcommit f440a728eb4d84ffff5592a9ad04d77791e5a66d[m
+Author: Moraar222 <moraar976@gmail.com>
+Date:   Wed Feb 7 12:00:00 2024 +0300
+
+    chore: Refactor code for dataset loading, preprocessing, model training, and evaluation
+
+[33mcommit e5baa6bd4aa86c6f7c1a28cdc345bd3005d0bc6f[m
+Author: Moraar222 <moraar976@gmail.com>
+Date:   Wed Aug 14 17:07:58 2024 +0300
+
+    chore: Add dataset loading, preprocessing, model training, and evaluation functions
+
+[33mcommit 18a82a6b58ff9d643d7fbae3699a54a680f43c30[m
+Author: Moraar222 <moraar976@gmail.com>
+Date:   Wed Jan 10 12:00:00 2024 +0300
+
+    chore: Add image preprocessing and text extraction functionality
+
+[33mcommit d773b230d185d95936c3534df8f5b3a0f16b1965[m
+Author: Moraar222 <moraar976@gmail.com>
+Date:   Wed Aug 14 02:40:40 2024 +0300
+
+    chore: Add image preprocessing and text extraction functionality
+
+[33mcommit 793ea4609b50dbeb72e139c32432213bb4a442d9[m
+Author: Ruth Moraa <86566492+moraar222@users.noreply.github.com>
+Date:   Tue Mar 15 21:55:42 2022 +0300
+
+    Create 0-putchar.c
+
+[33mcommit 99d98041d30c9809023a798937deecaa256dabd9[m
+Author: Ruth Moraa <86566492+moraar222@users.noreply.github.com>
+Date:   Mon Mar 14 20:36:44 2022 +0300
+
+    Initial commit
